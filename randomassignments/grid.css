@@ -1,0 +1,27 @@
+.header {
+background-color: blue;
+grid-row: 1/5;
+text-align: center ;
+margin: auto 0;
+height: 50px;
+grid-column: 3/3;
+}
+.right {
+background-color: yellow;
+grid-column: 6/15;
+text-align: center ;
+grid-row: 4/10 ;
+}
+.main {
+background-color:grey;
+
+}
+.left {
+background-color: red;
+
+}
+.bottom {
+background-color: black;
+width: 100%;
+
+}
