@@ -230,6 +230,12 @@ footer a:hover {
     color: whitesmoke;
 }
 
+.river-run {
+    margin: 50px auto;
+    width: 110%;
+}
+
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -270,5 +276,6 @@ footer a:hover {
     footer {
         margin-top: 25px;
     }
+
 }
    
