@@ -79,8 +79,8 @@ nav a {
     text-align: center;
 }
 
-main section{
-    text-align: center;
+.main-section {
+    text-align: left;
 }
 
 .background {
