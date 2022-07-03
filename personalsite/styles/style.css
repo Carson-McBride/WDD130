@@ -1,5 +1,5 @@
 /* fonts */ 
-@import url('https://fonts.googleapis.com/css?family=Raleway|Oswald');
+@import url('https://fonts.googleapis.com/css?family=Monteserrat|Merriweather');
 
 
 
@@ -91,7 +91,7 @@ nav a {
 
 body {
     background-color:white ;
-    font-family: Oswald;
+    font-family: Merriweather;
     font-size: 22px;
     margin: 0;
     padding: 0;
@@ -102,8 +102,8 @@ h2 {
 }
 
 header {
-    background-color:#ba2d0b  ;
-    font-family: Oswald;
+    background-color:#F6511D  ;
+    font-family: Merriweather;
     display: grid;
     grid-template-columns: 150px auto;
 }
@@ -116,7 +116,7 @@ nav {
     justify-content: space-around;
 }
 .book, .join {
-    background-color:#22aaa1 ;
+    background-color:#2AB7CA ;
     color: black;
     text-decoration: none;
     font-size: 18px;
@@ -128,7 +128,7 @@ nav {
     background-color: #CEE397;
 }
 .msg {
-    background-color:#22aaa1 ;
+    background-color:#2AB7CA ;
     padding: 35px;
     grid-column: 6/10;
     grid-row: 6/7;
@@ -143,7 +143,7 @@ nav {
 }
 .rivers-card {
     margin: 200px 0;
-    grid-column: 2/4;
+    grid-column: 6/10;
     grid-row: 2/3;
 }
 .camping-card {
@@ -175,9 +175,9 @@ nav {
 
 
 footer {
-    background-color:#006494 ;
+    background-color:#2B4162 ;
     text-decoration: underline;
-    font-family: Oswald;
+    font-family: Merriweather;
     padding: 25px 50px;
     margin-top: 200px;
     display: flex;
@@ -199,18 +199,24 @@ grid-template-columns: repeat(10,1fr);
 
 
 .home-title {
-    color: #ba2d0b ;
-    font-family: Raleway;
-    font-size: 2em;
+    color: #F6511D ;
+    font-family:Montserrat;
+    font-size: 6.5em;
     margin-top: 10px;
 }
 h4 {
-    color: #ba2d0b;
-    font-family: Oswald;
+    color: black;
+    font-family: Merriweather;
+}
+
+h1 { 
+    color: #F6511D;
+    font-family: Montserrat ;
+
 }
 .msg h2 {
     color: whitesmoke;
-    font-family: Raleway;
+    font-family:Montserrat;
 }
 .msg p {
     color: whitesmoke;
