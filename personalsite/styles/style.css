@@ -211,7 +211,9 @@ h4 {
     color: black;
     font-family: Merriweather;
 }
-
+h3 {
+    color: white;
+}
 h1 { 
     color: #F6511D;
     font-family: Montserrat ;
